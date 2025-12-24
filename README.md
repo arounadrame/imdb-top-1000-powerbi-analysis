@@ -202,6 +202,4 @@ This project demonstrates my ability to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arounadrame/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/arounadrame)
 
-Feel free to reach out if you would like to discuss this project or provide feedback!
-
 Feel free to reach out for feedback, questions, or to discuss the project!
