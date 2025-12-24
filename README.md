@@ -169,7 +169,7 @@ Approximately **17% of movies lack revenue data**, often corresponding to indepe
 
 As a result:
 - Revenue KPIs are calculated only on non-missing values
-- Median (~$24M) and average (~$68M) revenues remain representative of the available data
+- Median ($24M) and average ($68M) revenues remain representative of the available data
 - Revenue-related insights should be interpreted as **indicative trends**, not exhaustive financial conclusions
 
 Additional limitations:
