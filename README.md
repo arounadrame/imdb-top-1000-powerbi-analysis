@@ -155,7 +155,6 @@ Designed as an **operational exploration tool**:
 
 ## 🧠 Methodology
 - Descriptive and exploratory analysis only
-- KPIs computed using **DAX measures**
 - Emphasis on interpretability and decision support
 - No causal inference or predictive modeling applied
 
